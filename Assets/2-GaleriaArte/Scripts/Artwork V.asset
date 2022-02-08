@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfacf547b8807314ab51e6376cd113dc, type: 3}
+  m_Name: Artwork V
+  m_EditorClassIdentifier: 
+  artworks:
+  - {fileID: 2800000, guid: a44c576365a39744d81d97e982a5c06c, type: 3}
+  - {fileID: 2800000, guid: 495f0b17f88d7be40bc8d2a402b33108, type: 3}
+  - {fileID: 2800000, guid: 11bfcf49ff0fdc74db1d72ba74af8f92, type: 3}
+  - {fileID: 2800000, guid: 78e343e019a4e364e81fb3034080d431, type: 3}
+  - {fileID: 2800000, guid: 6a39fed5a434e554c8631c8b6d258ad8, type: 3}
+  - {fileID: 2800000, guid: 3c2871d432fc3024e92e4d85efa2b941, type: 3}
